@@ -14,3 +14,9 @@ run the server with `npm start` and navigate to [localhost:8081](https://localho
 
 View the game on [phaser3-state-machine.herokuapp.com](https://phaser3-state-machine.herokuapp.com/)
 
+## Actions
+Action states (also including idle state) are mapped to a state machine
+
+`arrow keys` to move
+`space` to swing sword
+`shift` to dash 
