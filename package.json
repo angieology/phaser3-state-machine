@@ -1,0 +1,23 @@
+{
+  "name": "phaser3-tutorial-src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-server": "^0.12.3",
+    "phaser": "^3.51.0"
+  },
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  }
+}
